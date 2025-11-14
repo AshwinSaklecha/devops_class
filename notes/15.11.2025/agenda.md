@@ -1,0 +1,2 @@
+- history command
+- deep dive into the containers 
